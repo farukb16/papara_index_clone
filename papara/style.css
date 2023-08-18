@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    vertical-align: middle;
+    border-style: none
+}
+ul{
+    margin-bottom: 20px;
+}
+.bireysel{
+    color: #8c00a1 !important;
+}
+.navbar{
+    margin-top: 1rem;
+}
+.bi{
+    margin: 1rem;
+}
+.nav-btn{
+    margin-left: 2rem;
+}
+.navli{
+    margin-top: 10px;
+}
+.navli ul li{
+    margin-left: 0;
+    margin-right: 8px;
+}
+.navli li a{
+    color: #6e767d;
+}
+.birikim{
+    background-color: #e13e2a;
+    color: white;
+    font-size: 13px;
+    margin: 0px 0px -2px 5px;
+    padding: 3px 5px;
+    border-radius: 20%;
+}
+.nav-menu{
+    padding: 0 !important;
+}
+
+p{
+    color: #6e767d;
+}
+button{
+    width: 200px;
+    height: 40px;
+    border-radius: 100%;
+}
+.mask{
+    width: 100%;
+    height: 100%;
+    background-image: url(iciPhone.png);
+   
+}
+.right-side{
+    width: 100%;
+    height: 100vh;
+    overflow-y:auto;
+}
+
+.iphone-banner img{
+        width: 205px;
+        height: 412px;
+        left: 15px;
+        top: 13px;
+        background-size: 190px;
+}
+.mt-n2{
+    padding: 15px;
+}
+.dropdown{
+    width: 100% !important;
+}
+.accordion-button{
+    color: black;
+    font-size: 18px !important;
+}
+.accordion-body{
+    color: #6e767d;
+}
+.accordion-body a{
+    color: #6e767d;
+}
+.accordion-body a:hover{
+    color: black !important;
+}
+.accordion-btn{
+    background-color: black !important;
+    border: 0;
+}
+.content{
+    margin-top: 180px !important;
+}
+
+.content p{
+    color: #6e767d;
+}
+.footer{
+    margin-top: 5rem;
+}
+.footer-top ul li{
+    list-style-type: none;
+    padding-left: 0;
+    float: left !important;
+    margin: 1rem;
+    
+}
+.text-right{
+    text-align: right !important;
+}
+.footer-middle small{
+    color: #6e767d !important;
+    
+}
+.text-md-right{
+    text-align: right !important;
+}
+.text-md-right a{
+    margin-right: 1rem;
+}
+.list-inline{
+    margin-top: 4rem;
+    padding: 15px;
+    list-style: none;
+    float: left;
+}
+.footer-bottom{
+    margin-top: 4rem;
+}
+.footer .footer-bottom a{
+    font-size: 14px;
+    letter-spacing: -.2px;
+    color: #000;
+}
+a{
+    text-decoration: none !important;
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+
